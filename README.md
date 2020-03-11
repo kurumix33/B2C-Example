@@ -8,7 +8,7 @@
 
 初始的目录结构如下：
 
-
+```
  www  WEB部署目录（或者子目录）
  ├─application           应用目录
  │  ├─common             公共模块目录（可以更改）
@@ -54,7 +54,7 @@
  ├─LICENSE.txt           授权说明文件
  ├─README.md             README 文件
  ├─think                 命令行入口文件
-
+```
 
 ### 编码规范
 

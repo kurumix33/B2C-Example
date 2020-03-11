@@ -1,6 +1,7 @@
 # B2C-Example
 
 [![License](https://poser.pugx.org/topthink/think/license)](https://packagist.org/packages/topthink/think)
+![PHP Composer](https://github.com/kurumix33/B2C-Example/workflows/PHP%20Composer/badge.svg)
 
 这是一个B2C商城的示例, 采用**Think5.0 Framework**构建.OOP风格.
 
